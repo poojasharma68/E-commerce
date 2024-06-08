@@ -23,7 +23,7 @@ To run this project locally you can use docker compose provided in the repositor
 
 Clone the repository
 ```
-$ git clone https://github.com/Harshchaudhary10/Project-MERN.git
+$ git clone https://github.com/poojasharma68/E-commerce.git
 ```
 
 Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
@@ -55,7 +55,7 @@ See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/a
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/Harshchaudhary10/Project-MERN.git
+$ git clone https://github.com/poojasharma68/E-commerce.git
 $ cd project
 $ npm install
 ```
